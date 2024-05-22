@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil ⚓
 
-<!--
-**renatadaniele/renatadaniele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é renata silva
 
-Here are some ideas to get you started:
+-  Estou estudando na Alura
+-  Estou me desenvolvendo na linguagem JavaScript
+-  Utilzo esse espeço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## VOCÊ entrar em contato comigo 📫
+
+- 00001107710261sp@al.educacao.sp.gov.br
+- reehsiilva_
+
+
+![](https://media1.tenor.com/m/CCqQcD1gtuAAAAAC/studio-ghibli.gif)
+https://media1.tenor.com/m/CCqQcD1gtuAAAAAC/studio-ghibli.gif
