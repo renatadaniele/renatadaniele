@@ -2,7 +2,7 @@
 
 meu nome é renata silva
 
--  Estou estudando na Alura
+-  Estou estudando na [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na linguagem JavaScript
 -  Utilzo esse espeço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
