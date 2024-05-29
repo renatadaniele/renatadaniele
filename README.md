@@ -1,6 +1,7 @@
 ## Boas vindas ao meu perfil ⚓
 
 meu nome é renata silva
+
 -dm1
 -  Estou estudando na [Alura](https://www.alura.com.br)
 -  Estou me desenvolvendo na linguagem JavaScript
